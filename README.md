@@ -24,7 +24,6 @@ My name is Nikolay and I am a junior frontend developer.
 ---
 ### :fire: My Stats :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bronik04&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bronik04&theme=dark&background=000000)](https://git.io/streak-stats) </br>
 
     
 
